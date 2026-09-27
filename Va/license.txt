@@ -1,0 +1,11 @@
+Model Information:
+* title:	PC Monitor
+* source:	https://sketchfab.com/3d-models/pc-monitor-5e1ac737b6574f428dbde1f8969d3a8c
+* author:	Gasidech.P (https://sketchfab.com/Gasidech)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PC Monitor" (https://sketchfab.com/3d-models/pc-monitor-5e1ac737b6574f428dbde1f8969d3a8c) by Gasidech.P (https://sketchfab.com/Gasidech) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
